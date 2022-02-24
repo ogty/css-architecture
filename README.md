@@ -14,10 +14,10 @@
 
 ## Name Methods
 
-- sub-title: Kebab case or Hyphen case
-- sub_title: Snake case
-- subTitle: Camel case or Lower camel case
-- SubTitle: Upper case or Pascal case
+- **Hyphen case(Kebab case)**: sub-title
+- **Snake case**: sub_title
+- **Lower camel case(Camel case)**: subTitle
+- **Upper case(Pascal case)**: SubTitle
 
 ## 4 Goals
 
